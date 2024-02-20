@@ -12,6 +12,7 @@
 - [![Резюме](https://fontawesome.com/v5.15/icons/file-alt?style=brands&color=green)](ссилка_на_ваше_резюме)
 
 
+
 <br>
 
 <p align="left"> 
