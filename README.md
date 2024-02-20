@@ -9,7 +9,7 @@
 <br>
 - [![Linkedin](https://img.shields.io/badge/-Anton_Babenko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/babenko-anton/)
 - [![Gmail](https://img.shields.io/badge/-Contact_me_via_Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B)](mailto:antonbabenko1983@gmail.com)
-- [![Rezume](https://www.canva.com/design/DAF9KatXbtw/laFNBf0DsG7W0d-8vG5ZbA/view?utm_content=DAF9KatXbtw&utm_campaign=designshare&utm_medium=link&utm_source=editor)](Anton Babenko)
+- [![Rezume](https://www.canva.com/design/DAF9KatXbtw/laFNBf0DsG7W0d-8vG5ZbA/view?utm_content=DAF9KatXbtw&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
   
 <br>
 
