@@ -1,10 +1,9 @@
-- 👋 Hello! 👨‍🔬 I'm Anto Babenko, and I'm looking to paint my future in the IT industry.
+👋 Hello! 👨‍🔬 I'm Anto Babenko, and I'm looking to paint my future in the IT industry.
   <br>
-- 🔭  My main goal is to create not only in the physical world, but also in the virtual reality of code, where every line becomes a brick of innovation..
+🔭  My main goal is to create not only in the physical world, but also in the virtual reality of code, where every line becomes a brick of innovation..
  <br>
-- 👯 Let's create an unparalleled harmony of possibilities together! 🎨💻🏡
-
-
+👯 Let's create an unparalleled harmony of possibilities together! 🎨💻🏡
+- <br>
 - [![Linkedin](https://img.shields.io/badge/-Anton_Babenko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/babenko-anton/)
 - [![Gmail](https://img.shields.io/badge/-Contact_me_via_Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B)](mailto:antonbabenko1983@gmail.com)
   
