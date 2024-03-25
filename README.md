@@ -3,6 +3,7 @@
 <h2 align="center">🎨  I'm looking to paint my future in the IT industry.</h2>
 <h2 align="center">🔭  My main goal is to create not only in the physical world, but also in the virtual reality of code, where every line becomes a brick of innovation. ua</h2>
 <h2 align="center">👯  Let's create an unparalleled harmony of possibilities together! 💻🏡 ua</h2>
+👯  Let's create an unparalleled harmony of possibilities together! 🎨💻🏡
 <br>
 <br>
 - [![artemdev e-mail](https://img.shields.io/badge/Gmail-antonbabenko1983@gmail.com-red?style=plastic&logo=gmail&link=mailto:artem.zimovets@gmail.com)](mailto:antonbabenko1983@gmail.com)
