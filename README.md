@@ -24,4 +24,4 @@
 
 | | |
 | :---: | :---: |
-| ![Mei's github stats](https://github-readme-stats.vercel.app/api?username=bobantonbob&show_icons=true&theme=cobalt) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bobantonbob&theme=cobalt) |
+| ![Mei's github stats](https://github-readme-stats.vercel.app/api?username=bobantonbob&show_icons=true&theme=dark) | ![GitHub Streak](https://streak-stats.demolab.com/?user=bobantonbob&theme=dark) |
