@@ -8,13 +8,8 @@
 
 
 
-👋  Hello! 👨‍🔬 I'm Anton Babenko, and I'm looking to paint my future in the IT industry.
-  <br>
-  <br>
-🔭  My main goal is to create not only in the physical world, but also in the virtual reality of code, where every line becomes a brick of innovation.
  <br>
- <br>
-👯  Let's create an unparalleled harmony of possibilities together! 🎨💻🏡
+👯 🎨💻🏡
 <br>
 <br>
 <br>
