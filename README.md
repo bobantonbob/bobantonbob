@@ -1,3 +1,4 @@
+<!-- GitHub Markdown не підтримує вбудовані стилі CSS, тому можна використати HTML -->
 <div style="background-color: #f4f4f4; padding: 20px;">
   <h1 align="center">Hello! 👨‍🔬 I'm <a href="https://www.linkedin.com/in/babenko-anton/" target="_blank">Anton Babenko</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
