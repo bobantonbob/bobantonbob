@@ -8,15 +8,10 @@
 
 
 
- <br>
-👯 🎨💻🏡
-<br>
-<br>
-<br>
-- [![artemdev e-mail](https://img.shields.io/badge/Gmail-antonbabenko1983@gmail.com-red?style=plastic&logo=gmail&link=mailto:artem.zimovets@gmail.com)](mailto:antonbabenko1983@gmail.com)
-- [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/babenko-anton/)
-- [![artemdev telegram](https://img.shields.io/badge/Telegram-%40BabenkoAnton?style=plastic&logo=telegram&link=https://t.me/artemzimovets)](https://t.me/BabenkoAnton)
-- [![Rezume](https://img.shields.io/badge/-Rezume-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.canva.com/design/DAF9KatXbtw/laFNBf0DsG7W0d-8vG5ZbA/view?utm_content=DAF9KatXbtw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[![artemdev e-mail](https://img.shields.io/badge/Gmail-antonbabenko1983@gmail.com-red?style=plastic&logo=gmail&link=mailto:artem.zimovets@gmail.com)](mailto:antonbabenko1983@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/babenko-anton/)
+[![artemdev telegram](https://img.shields.io/badge/Telegram-%40BabenkoAnton?style=plastic&logo=telegram&link=https://t.me/artemzimovets)](https://t.me/BabenkoAnton)  
+[![Rezume](https://img.shields.io/badge/-Rezume-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.canva.com/design/DAF9KatXbtw/laFNBf0DsG7W0d-8vG5ZbA/view?utm_content=DAF9KatXbtw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 <br>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a>
